@@ -3,8 +3,8 @@
 - 각 챕터 실행 스크린샷
 
 1. 비동기 처리 학습(Asyne/Await 활용하기)
-<img width="1008" alt="스크린샷 2025-03-26 오후 4 26 34" src="https://github.com/user-attachments/assets/ec4e0f75-ae7e-4da1-b7ea-98509f15f813" /> 
-<br><br>
+<img width="1008" alt="스크린샷 2025-03-26 오후 4 26 34" src="https://github.com/user-attachments/assets/ec4e0f75-ae7e-4da1-b7ea-98509f15f813" /> <br>
+<br>
 2.  리액트에서 컴포넌트 재사용성 높이기
 <img width="1121" alt="스크린샷 2025-03-26 오후 2 04 55" src="https://github.com/user-attachments/assets/0cffd2d9-f373-4f35-a423-68e67586eec5" /> <br>
 
